@@ -14,6 +14,6 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 # TEAM MEMBERS
 
 - Karthicknaveen P
-- Kishore nishanth   
+- Kishore nishaanth M  
 - Kabilan M
 - Mohamed Afrith F
